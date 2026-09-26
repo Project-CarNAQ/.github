@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img width="1254" height="1254" alt="Designer (2)" src="https://github.com/user-attachments/assets/b2411569-6c06-4485-9c23-d8717eaf8421"/>
+"<img width="125" height="125" alt="Designer (2)" src="https://github.com/user-attachments/assets/b2411569-6c06-4485-9c23-d8717eaf8421"/>
 
 ### Blockchain-based, Shariah-compliant Asset Tokenization of Car Ownership
 

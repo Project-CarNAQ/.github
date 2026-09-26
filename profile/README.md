@@ -16,7 +16,6 @@
 [![Shariah](https://img.shields.io/badge/finance-Shariah--compliant-2ECC71?style=flat-square)]()
 [![University](https://img.shields.io/badge/FYP-FAST--NUCES-blue?style=flat-square)]()
 
-[About](#-about) • [How It Works](#-how-it-works) • [Islamic Finance Models](#-islamic-finance-models) • [Architecture](#%EF%B8%8F-architecture) • [Repositories](#-repositories) • [Roadmap](#%EF%B8%8F-roadmap) • [Contributing](#-contributing)
 
 </div>
 
